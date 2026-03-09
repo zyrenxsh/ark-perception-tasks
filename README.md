@@ -5,7 +5,7 @@ this repo contains my solution to ARK Perception tasks using Python and MatLab. 
 working on these tasks was interesting as well as challenging, i got learn many things like morphological tranformation, blurs, vectorisation, etc
 
 #### PS
-The instructions recommended creating documentation using the Overleaf LaTeX template. However, due to some technical issues, I was unable to complete the documentation in Overleaf. Instead, the reports have been written and submitted in DOCX format.
+The instructions recommended creating documentation using the Overleaf LaTeX template. However, due to some technical issues, I was unable to complete the documentation in Overleaf. Instead, the reports have been written and submitted in PDF format.
 
 ## repo structure
 each folder contains documentation on the task, the output and the code involved.
